@@ -8,7 +8,7 @@ I’m a front-end developer who’s also a certified programmer technician in Po
 
 * 🌍  I'm based in Chełm, Poland
 * ✉️  You can contact me at [k.kacper.korzeniewski@gmail.com](mailto:k.kacper.korzeniewski@gmail.com)
-* 🧠  I'm learning Bootstrap, Tailwind, React
+* 🧠  I'm learning Full Stack with Javascript
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
