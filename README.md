@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Kacper!
 I'm a full-stack development enthusiast and a certified programmer technician in Poland. When I'm not coding, you can find me on the badminton court or spending time with my two adorable hamsters. I'm passionate about building websites and continuously learning to grow in the field of web development.
 
-# 💫 About Me:
+## 💫 About Me:
 🔭  I’m currently working on improving my coding skills and building personal projects. <br>
 👯  I’m looking to collaborate on open-source projects or projects that align with my interests. <br>
 🤝  I’m looking for help with my projects and guidance from experienced developers. <br>
