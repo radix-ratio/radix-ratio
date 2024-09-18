@@ -1,6 +1,5 @@
-
-
-Hi, I'm Kacper! I'm a full-stack development enthusiast and a certified programmer technician in Poland. When I'm not coding, you can find me on the badminton court or spending time with my two adorable hamsters. I'm passionate about building websites and continuously learning to grow in the field of web development.
+# 👋 Hello, I'm Kacper!
+I'm a full-stack development enthusiast and a certified programmer technician in Poland. When I'm not coding, you can find me on the badminton court or spending time with my two adorable hamsters. I'm passionate about building websites and continuously learning to grow in the field of web development.
 
 # 💫 About Me:
 🔭  I’m currently working on improving my coding skills and building personal projects. <br>
@@ -9,7 +8,7 @@ Hi, I'm Kacper! I'm a full-stack development enthusiast and a certified programm
 ✉️   You can contact me at [k.kacper.korzeniewski@gmail.com](mailto:k.kacper.korzeniewski@gmail.com) <br>
 🌱  I’m currently learning full-stack development with The Odin Project. <br>
 💬  Ask me about my projects, badminton, or my hamsters! <br>
-⚡  Fun fact: I'm a student by day and a badminton enthusiast by night. <br>
+⚡  Fun fact: When I'm not debugging, I'm busy hamster-sitting or perfecting my badminton serve. <br>
  
 
 ## 🌐 Socials:
