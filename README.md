@@ -1,11 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my coding skills and building personal projects.
-👯 I’m looking to collaborate on open-source projects or projects that align with my interests.
-🤝 I’m looking for help with my projects and guidance from experienced developers.
-✉️ You can contact me at [k.kacper.korzeniewski@gmail.com](mailto:k.kacper.korzeniewski@gmail.com)
-🌱 I’m currently learning full-stack development with The Odin Project.
+🔭 I’m currently working on improving my coding skills and building personal projects. <br>
+👯 I’m looking to collaborate on open-source projects or projects that align with my interests. <br>
+🤝 I’m looking for help with my projects and guidance from experienced developers. <br>
+✉️ You can contact me at [k.kacper.korzeniewski@gmail.com](mailto:k.kacper.korzeniewski@gmail.com) <br>
+🌱 I’m currently learning full-stack development with The Odin Project. <br>
 💬 Ask me about my projects, badminton, or my hamsters!
-⚡ Fun fact: I'm a student by day and a badminton enthusiast by night.
+⚡ Fun fact: I'm a student by day and a badminton enthusiast by night. <br>
+
 
 
 ## 🌐 Socials:
